@@ -5,6 +5,6 @@ After selecting the most relevant solution (shameless green), the exercise was r
 The OCP is then introduced with the Flocking rule to help turning the differences in sameness, in order to let appear the abstraction .
 The SRP is introduced as well, however during this refactoring iterations, although LSP violation appears the code remains more comprehensible.
 Then polymorphism with the usage of factory method is applied to comply with the different principles.
-After that, the aesthetic approach is described showing that the intuition (based on experience) can help on improving the code
-Finally, the last chapter explain that tests must tell a satisfying story .
+After that, the aesthetic approach is described showing that the intuition can help on improving the code. The DIP and Law of Demeter are introduced to make the code less coupled and more ready for new requirements
+Finally, the last chapter explain that tests must tell a satisfying story, and how to reorganize it to help to reduce cost by making the code easier to understand.
 Beside these step by step actions, some other rules & principles are mentionned like the non usage of primitive datatypes, Bus Factor, Squint test, Flocking rule, etc. Showing us that other aspects like the naming, shape, readability are as important as the rest.
