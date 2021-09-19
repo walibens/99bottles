@@ -1,3 +1,5 @@
+# Summary
+
 "99 Bottles of beer" is a practical book showing how, from a initial solution of the "99 bottles of beer" song, we can refactor it by following the state of the art, in a disciplined and step by step approach.
 
 It introduces first some solutions of the 99 bottles and measure the code quality based on different metrics (SLOC, Cyclomatic Complexity, ABC).
